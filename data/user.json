@@ -1,0 +1,434 @@
+{
+  "name": "Linn Min Htet",
+  "status": "Full Stack Flutter/Web Developer",
+  "description": "I am a final year IT Engineering student from Mandalay Myanmar, who is enthusiast on full stack web development, flutter mobile app development etc.",
+  "navigations": [
+    {
+      "id": 1,
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "id": 2,
+      "name": "Resume",
+      "url": "/resume"
+    },
+    {
+      "id": 3,
+      "name": "Projects",
+      "url": "/projects"
+    },
+    {
+      "id": 4,
+      "name": "Articles",
+      "url": "https://medium.com/@linnminhtet9623"
+    },
+    {
+      "id": 5,
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "id": 6,
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Ui Ux design",
+      "description": "Develop a good user interface and user experience, with a beautiful and comfortable appearance",
+      "icon": "/services/service-uiux.svg"
+    },
+    {
+      "id": 2,
+      "name": "Website dev",
+      "description": "Developing a website appearance based on design into a website that can be use. With good performance",
+      "icon": "/services/service-website.svg"
+    },
+    {
+      "id": 3,
+      "name": "WebApps dev",
+      "description": "Developing a very well-functioning web applications, various features and performance",
+      "icon": "/services/service-webapps.svg"
+    },
+    {
+      "id": 4,
+      "name": "Mobile Apps",
+      "description": "Develop a good Frontend design for mobile, tablet, desktop and all screen devices",
+      "icon": "/services/service-rwd.svg"
+    },
+    {
+      "id": 5,
+      "name": "Best Performance",
+      "description": "Develop a good Performance website and web application for more better experience",
+      "icon": "/services/service-performance.svg"
+    },
+    {
+      "id": 6,
+      "name": "Progressive Web Apps",
+      "description": "Develop a Progressive web apps, create website and website with native apps experience",
+      "icon": "/services/service-pwa.svg"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML 5",
+      "icon": "/skills/skill-html5.svg"
+    },
+    {
+      "id": 2,
+      "name": "CSS 3",
+      "icon": "/skills/skill-css3.svg"
+    },
+    {
+      "id": 3,
+      "name": "Javascript",
+      "icon": "/skills/skill-javascript.svg"
+    },
+    {
+      "id": 4,
+      "name": "TailwindCss",
+      "icon": "/skills/skill-tailwindcss.svg"
+    },
+    {
+      "id": 5,
+      "name": "Bootstrap",
+      "icon": "/skills/skill-bootstrap.svg"
+    },
+    {
+      "id": 6,
+      "name": "Node JS",
+      "icon": "/skills/skill-nodejs.svg"
+    },
+    {
+      "id": 7,
+      "name": "React JS",
+      "icon": "/skills/skill-reactjs.svg"
+    },
+    {
+      "id": 8,
+      "name": "Next JS",
+      "icon": "/skills/skill-nextjs.svg"
+    },
+    {
+      "id": 9,
+      "name": "Firebase",
+      "icon": "/skills/skill-firebase.svg"
+    },
+    {
+      "id": 10,
+      "name": "Git",
+      "icon": "/skills/skill-git.svg"
+    },
+    {
+      "id": 11,
+      "name": "Github",
+      "icon": "/skills/skill-github.svg"
+    },
+    {
+      "id": 12,
+      "name": "Flutter",
+      "icon": "/skills/skill-flutter.svg"
+    }
+  ],
+  "project": {
+    "title": "Project",
+    "desctiption": "some of the projects that I've worked on to completion with some of the technologies",
+    "contents": [
+      {
+        "id": 1,
+        "top": false,
+        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fcookingbox.png?alt=media",
+        "name": "CookingBox",
+        "stack": "HTML, CSS, PWA",
+        "category": "Personal Project",
+        "url": "https://cookingboxs.netlify.app"
+      },
+      {
+        "id": 2,
+        "top": false,
+        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fnetflix-clone.png?alt=media",
+        "name": "Netflix Clone",
+        "stack": "React JS, CSS, TMDB API",
+        "category": "Personal Project",
+        "url": "https://clone-netflix-web.netlify.app/"
+      },
+      {
+        "id": 3,
+        "top": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fwhatsapp-clone.png?alt=media",
+        "name": "Whatsapp Clone",
+        "stack": "React JS, CSS, Firebase",
+        "category": "Personal Project",
+        "url": "https://clone-whatsapp-web.netlify.app/"
+      },
+      {
+        "id": 4,
+        "top": false,
+        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fweneeddev.png?alt=media",
+        "name": "WeNeedDev",
+        "stack": "HTML, CSS, Bootstrap 5",
+        "category": "Personal Project",
+        "url": "https://weneeddev.netlify.app/"
+      },
+      {
+        "id": 5,
+        "top": false,
+        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fpinterest-clone.png?alt=media",
+        "name": "Pinterest Clone",
+        "stack": "React JS, CSS, Unsplash API",
+        "category": "Personal Project",
+        "url": "https://clone-pinterest-web.netlify.app/"
+      },
+      {
+        "id": 6,
+        "top": false,
+        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fgoogle-clone.png?alt=media",
+        "name": "Google Clone",
+        "stack": "React JS, CSS, Google API",
+        "category": "Personal Project",
+        "url": "https://clone-google-web.netlify.app/"
+      },
+      {
+        "id": 7,
+        "top": false,
+        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Ftodonesia.png?alt=media",
+        "name": "Todonesia",
+        "stack": "React JS, Firebase, StyledComponent",
+        "category": "Personal Project",
+        "url": "https://todonesia.netlify.app/"
+      },
+      {
+        "id": 8,
+        "top": false,
+        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fpublic-blog-app.png?alt=media",
+        "name": "Public blog app",
+        "stack": "Next JS, Firebase, StyledComponent",
+        "category": "Personal Project",
+        "url": "https://devsantara.vercel.app/"
+      },
+      {
+        "id": 9,
+        "top": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fairbnb-clone.png?alt=media",
+        "name": "Airbnb Clone",
+        "stack": "Next JS, Tailwindcss",
+        "category": "Personal Project",
+        "url": "https://airbnb-clone-app.vercel.app/"
+      },
+      {
+        "id": 10,
+        "top": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/edwintantawi-25f09.appspot.com/o/projects%2Fdevsantara.png?alt=media",
+        "name": "Devsantara",
+        "stack": "Next JS, Tailwindcss, Markdown",
+        "category": "Personal Project",
+        "url": "https://devsantara.netlify.app/"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Chat with me through some of the contacts you can call to get acquainted.",
+    "contents": [
+      
+      {
+        "id": 4,
+        "icon": "fab fa-facebook-f",
+        "name": "Facebook",
+        "username": "`Linn Min Htet",
+        "category": "Social Media",
+        "url": "https://www.facebook.com/linnmin.htet23"
+      },
+      {
+        "id": 5,
+        "icon": "fab fa-linkedin-in",
+        "name": "Linkedin",
+        "username": "`Linn Min Htet",
+        "category": "Social Media",
+        "url": "https://www.linkedin.com/in/linn-min-htet-56a297143/"
+      },
+      {
+        "id": 6,
+        "icon": "fab fa-github",
+        "name": "Github",
+        "username": "linnminhtet23",
+        "category": "Social Media",
+        "url": "https://github.com/linnminhtet23"
+      },
+      {
+        "id": 7,
+        "icon": "far fa-envelope",
+        "name": "Gmail",
+        "username": "linnminhtet23@gmail.com",
+        "category": "Email",
+        "url": "mailto:linnminhtet23@gmail.com"
+      },
+      {
+        "id": 8,
+        "icon": "far fa-compass",
+        "name": "Location",
+        "username": "Mandalay Myanmar",
+        "category": "location",
+        "url": "https://www.google.com/maps/place/Mandalay/@21.9403451,96.0057841,12z/data=!3m1!4b1!4m5!3m4!1s0x30cb6d23f0d27411:0x24146be01e4e5646!8m2!3d21.9588282!4d96.0891032"
+      }
+    ]
+  },
+  "about": {
+    "title": "About",
+    "description": "For more information about me, here is the history of my life",
+    "contents": [
+      {
+        "id": 1,
+        "name": "My History",
+        "description": "Hello, let me introduce mysef first my name is Linn Min Htet you can call me henry as well, I'm from Mandalay Myanmar, The central city of Myanmar. I'm a 25 years old technological university student who is enthusiast on mobile app development full stack development etc."
+      },
+      {
+        "id": 2,
+        "name": "What am i Doing", 
+        "description": "Now, I'm currently working as a software developer and I'm currently looking for the Flutter or Full Stack Developer position."
+      },
+      {
+        "id": 3,
+        "name": "What Next",
+        "description": "For the current situation happening on Myanmar, I'm currently involve in a movement that (most of university student from Myanmar do this movement) called civil disobedience movent since 2021. This mean Military Government that's ruled myanmar. So, I'm not graduated yet. If I have a chance, I want to become a Phd. in Computer Science."
+      },
+      {
+        "id": 4,
+        "name": "Dreams and Wishes",
+        "description": "In this year, I'm preparing to start my own start-ups company with my friends. I want to become a good CEO of my company. I want to make growth my start-up company into a big tech company"
+      }
+    ]
+  },
+  "resume": {
+    "title": "Resume",
+    "description": "explore my experiences, rewards, and education, as well as my activeness",
+    "contents": [
+      {
+        "id": 1,
+        "title": "Work Experience",
+        "contents": [
+          {
+            "id": 1,
+            "timestamp": "13 Jun 2022 - 30 Sept 2022",
+            "name": "The International Union Against Tuberculosis and Lung Disease or The Union",
+            "info": "Remote Developer",
+            "description": "I was mainly working healh care projects for TB patients ",
+            "url": "https://theunion.org/"
+          },
+          {
+            "id": 2,
+            "timestamp": "9 Jan 2022 - 31 May 2022",
+            "name": "Real Code Solutions",
+            "info": "Flutter/Full Stack Developer",
+            "description": "I was mainly working diverse flutter project, web dashboards and backend developments",
+            "url": "https://rcs-mm.com/"
+          },
+          {
+            "id": 3,
+            "timestamp": "4 Oct 2019 - 25 Dec 2019",
+            "name": "Bits Manager Company",
+            "info": "Mobile Apps Development Intern",
+            "description": "I was mainly working diverse flutter project, web dashboards and backend developments",
+            "url": "https://www.bits-manager.com/"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Courses I Completed",
+        "contents": [
+          {
+            "id": 5,
+            "timestamp": "25 Oct 2022",
+            "name": "Backend Development and APIs",
+            "info": "Free Code Camp",
+            "description": "I've learned the essentials of Node.js application development with MongoDB.",
+            "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
+            "list": [
+              {
+                "id": 1,
+                "name": "Completion Certificate",
+                "level": "Intermediate",
+                "url": "https://www.freecodecamp.org/certification/linnminhtet23/back-end-development-and-apis"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "timestamp": "6 Sept 2021 - 12 Jan 2022",
+            "name": "Node JS Fundamental",
+            "info": "Youth Career Institute",
+            "description": "I've learned the fundamental of backend developments with MongoDB",
+            "url": "https://www.facebook.com/youthcareerorg",
+            "list": [
+              {
+                "id": 1,
+                "name": "Completion Certificate",
+                "level": "Fundamental",
+                "url": "https://www.freecodecamp.org/certification/linnminhtet23/back-end-development-and-apis"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "timestamp": "16 Nov 2021",
+            "name": "NodeJs: Build The Complete Ecommerce Web API (2021).",
+            "info": "Udemy",
+            "description": "I've learned the complete fundamental project walk through of Node JS backend",
+            "url": "https://www.udemy.com/course/nodejs-build-complete-ecommerce-web-api/",
+            "list": [
+              {
+                "id": 1,
+                "name": "Completion Certificate",
+                "level": "Fundamental",
+                "url": "https://www.udemy.com/certificate/UC-1a5f606e-4303-4b92-9bca-1e8c312f06d5/"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "timestamp": " 15 Mar 2021 - 01 Jul 2021",
+            "name": "MongoDB for JavaScript Developers",
+            "info": "MongoDB University",
+            "description": "Certification given by MongoDb University",
+            "url": "https://university.mongodb.com/courses/M220JS/about",
+            "list": [
+              {
+                "id": 1,
+                "name": "Completion Certificate",
+                "level": "Intermediate",
+                "url": "https://university.mongodb.com/course_completion/73bb399c-d6d3-46e5-818a-ca6a311ceb97"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Educational Level",
+        "contents": [
+          {
+            "id": 1,
+            "timestamp": "2015 - Present",
+            "name": "Technological University Kyaukse",
+            "info": "University",
+            "description": "I'm a IT engineering university student who is majored in software engineering. I'm an enthusiast of data structure and algorithm, cloud technology, mobile apps, web app, etc.",
+            "url": "https://www.kyauksetu.edu.mm/"
+          },
+          {
+            "id": 2,
+            "timestamp": "2013 - 2014",
+            "name": "Victory Education Center",
+            "info": "Private High School",
+            "description": "This is my first step to become an software engineer.",
+            "url": "https://www.facebook.com/vecmdymm/"
+          }
+        ]
+      }
+    ]
+  }
+}
