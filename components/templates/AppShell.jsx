@@ -17,7 +17,7 @@ function AppShell({ title, keyword, description, hero, cta, children }) {
       <AppHead title={title} description={description} keyword={keyword} />
       <AppNav />
       <AppSide />
-      <Visitors visitors={visitors} />
+      {/* <Visitors visitors={visitors} /> */}
       {hero && <AppHero />}
       <AppContainer>
         {children}
